@@ -1,0 +1,7 @@
+name: ZaryDiscord
+main: leyendux.github.io.zarydiscord.Main
+version: ${project.version}
+
+description: Bot that connects with twitter and minecraft
+author: Leyendux
+website: github.com/Leyendux
